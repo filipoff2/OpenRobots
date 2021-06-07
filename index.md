@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome Open Robots platform
 
-You can use the [editor on GitHub](https://github.com/filipoff2/OpenRobots/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Why?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://twitter.com/filipoff/status/1396557796313866244
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Engineering principles
+- each module should be easy to replace, mock, prototype, that is do substitution
+- if possible software and hardware modules should be open for modification enabling #right to repair
+- if possible modules should be done from widely available components, parts 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Instpiration 
+https://github.com/NiklasFauth/hoverboard-firmware-hack
+[Link](https://www.youtube.com/watch?v=SPWtbo25dm8&t=2s)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/filipoff2/OpenRobots/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
